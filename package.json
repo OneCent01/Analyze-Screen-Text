@@ -1,0 +1,16 @@
+{
+  "name": "analyze-screen-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyzeScreenText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "screenshot-desktop": "^1.15.0",
+    "sharp": "^0.33.2",
+    "tesseract.js": "^5.0.4"
+  }
+}
